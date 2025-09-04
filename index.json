@@ -1,12 +1,12 @@
 {
   "packs": {
     "OPW": {
-      "version": "1.2",
-      "url": "https://raw.githubusercontent.com/johnmurphycbs/auditflow-template-packs/main/OPW_v1.2.zip"
+      "version": "1.0",
+      "url": "https://raw.githubusercontent.com/johnmurphycbs/auditflow-template-packs/main/OPW_1.zip"
     },
     "LMETB": {
       "version": "1.0",
-      "url": "https://raw.githubusercontent.com/johnmurphycbs/auditflow-template-packs/main/LMETB_v1.0.zip"
+      "url": "https://raw.githubusercontent.com/johnmurphycbs/auditflow-template-packs/main/LMETB_1.zip"
     }
   }
 }
